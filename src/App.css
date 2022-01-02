@@ -9,6 +9,10 @@ html, body {
   height: 100%;
 }
 
+.EpisodeContainer {
+  padding: 20px;
+}
+
 .header {
   width: 100%;
   background-color: #fff;
